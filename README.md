@@ -1,57 +1,87 @@
-📂 Featured Projects
+## 📂 Featured Projects
 
-❤️ Heart Disease EDA
+### ❤️ Heart Disease EDA
 
-Objective: Analyze patient health records and identify factors associated with heart disease.
+**Objective:**
+Analyze patient health records to identify patterns, risk factors, and indicators associated with heart disease.
 
-Key Analysis:
+**Key Analyses Performed:**
 
-Data Cleaning
-Missing Value Treatment
-Outlier Detection
-Feature Distribution Analysis
-Correlation Analysis
-Health Risk Insights
+* Data Cleaning & Preprocessing
+* Missing Value Treatment
+* Outlier Detection & Handling
+* Feature Distribution Analysis
+* Correlation Analysis
+* Health Risk Factor Identification
 
-Tools Used:
-Python, Pandas, Seaborn, Matplotlib
+**Tools & Technologies:**
+`Python` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib`
 
-🚗 Road Accident Analysis
+---
 
-Objective: Analyze road accident data to identify trends, hotspots, and risk factors.
+### 🚗 Road Accident Analysis
 
-Key Analysis:
+**Objective:**
+Explore road accident data to uncover trends, accident hotspots, and factors contributing to accident severity.
 
-Accident Severity Analysis
-Time-Based Trends
-Weather Impact Analysis
-Speed Limit Analysis
-Geographical Hotspots
-Road Surface Conditions
+**Key Analyses Performed:**
 
-Tools Used:
-Python, Pandas, Seaborn, Matplotlib
+* Accident Severity Analysis
+* Time-Based Trend Analysis
+* Weather Condition Impact Analysis
+* Speed Limit Assessment
+* Geographical Hotspot Identification
+* Road Surface Condition Analysis
 
-📈 Analytics Skills Demonstrated
+**Tools & Technologies:**
+`Python` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib`
 
-✔ Data Cleaning
+---
 
-✔ Exploratory Data Analysis
+## 📈 Analytics Skills Demonstrated
 
-✔ Statistical Analysis
+<table>
+<tr>
+<td>✔ Data Cleaning & Preprocessing</td>
+<td>✔ Exploratory Data Analysis (EDA)</td>
+</tr>
+<tr>
+<td>✔ Statistical Analysis</td>
+<td>✔ Data Visualization</td>
+</tr>
+<tr>
+<td>✔ Feature Engineering</td>
+<td>✔ Business Insight Generation</td>
+</tr>
+<tr>
+<td>✔ Reporting & Storytelling</td>
+<td>✔ Data-Driven Decision Making</td>
+</tr>
+</table>
 
-✔ Data Visualization
+---
 
-✔ Feature Engineering
+## 🛠️ Technology Stack
 
-✔ Business Insight Generation
+| Category                  | Technologies                  |
+| ------------------------- | ----------------------------- |
+| **Programming**           | Python                        |
+| **Databases**             | SQL (MySQL, PostgreSQL)       |
+| **Data Processing**       | Pandas, NumPy                 |
+| **Data Visualization**    | Matplotlib, Seaborn, Power BI |
+| **Business Intelligence** | Power BI, Excel               |
+| **Version Control**       | Git, GitHub                   |
+| **Development Tools**     | VS Code, Jupyter Notebook     |
 
-✔ Reporting & Storytelling
+---
 
-🛠 Technology Stack
-Category	Tools
-Programming	Python
-Database	SQL
-Visualization	Matplotlib, Seaborn, Power BI
-Data Processing	Pandas, NumPy
-Version Control	Git, GitHub
+### 📊 Areas of Expertise
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* Business Intelligence Reporting
+* Statistical Data Analysis
+* Data Visualization & Storytelling
+* KPI & Performance Tracking
+* Insight Generation for Decision-Making
