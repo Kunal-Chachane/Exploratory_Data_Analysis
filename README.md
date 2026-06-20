@@ -80,10 +80,8 @@ Explore accident data to uncover trends, hotspots, and contributing risk factors
 | Category                  | Technologies                  |
 | :------------------------ | :---------------------------- |
 | **Programming**           | Python                        |
-| **Databases**             | SQL (MySQL, PostgreSQL)       |
 | **Data Processing**       | Pandas, NumPy                 |
-| **Data Visualization**    | Matplotlib, Seaborn, Power BI |
-| **Business Intelligence** | Power BI, Excel               |
+| **Data Visualization**    | Matplotlib, Seaborn           |  
 | **Version Control**       | Git, GitHub                   |
 | **Development Tools**     | VS Code, Jupyter Notebook     |
 
